@@ -3,16 +3,13 @@
   "resourceVersion": "1.0",
   "name": "House1",
   "spriteId": {
-    "name": "FarmHouse",
-    "path": "sprites/FarmHouse/FarmHouse.yy",
+    "name": "spr_house1_snowy",
+    "path": "sprites/spr_house1_snowy/spr_house1_snowy.yy",
   },
   "solid": false,
   "visible": true,
   "managed": true,
-  "spriteMaskId": {
-    "name": "FarmHouse",
-    "path": "sprites/FarmHouse/FarmHouse.yy",
-  },
+  "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
     "name": "obj_wall",
