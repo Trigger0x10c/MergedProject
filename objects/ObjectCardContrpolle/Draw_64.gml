@@ -128,7 +128,7 @@ if(global.enemyhp > 0 && global.hp > 0){
 	}
 }else{
 	if(global.enemyhp < 1){
-		draw_sprite(SpriteGO,0,900,400);
-	}else{draw_sprite(SpriteGO,0,900,400);}
-
+		room_goto(rm_cardpicker)
+		}
+	
 }
