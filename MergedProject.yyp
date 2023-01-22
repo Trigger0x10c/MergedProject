@@ -285,6 +285,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"NecoArc","folderPath":"folders/Sprites/Character Sprites/NecoArc.yy","order":3,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"NecoArcChaos","folderPath":"folders/Sprites/Character Sprites/NecoArcChaos.yy","order":4,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Interior Assets","folderPath":"folders/Sprites/Interior Assets.yy","order":5,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"main menu","folderPath":"folders/Sprites/main menu.yy","order":15,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Overworld Assets","folderPath":"folders/Sprites/Overworld Assets.yy","order":4,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"pickacard","folderPath":"folders/Sprites/pickacard.yy","order":8,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy","order":1,},
@@ -294,7 +295,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"HUD Elements","folderPath":"folders/UI/HUD Elements.yy","order":3,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Menu","folderPath":"folders/UI/Menu.yy","order":0,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Textbox","folderPath":"folders/UI/Textbox.yy","order":2,},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"main menu","folderPath":"folders/Sprites/main menu.yy","order":15,},
   ],
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
