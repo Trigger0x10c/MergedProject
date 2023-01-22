@@ -1,13 +1,13 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "TileSet6",
+  "name": "WoodenTileset",
   "spriteId": {
     "name": "WoodenTiles",
     "path": "sprites/WoodenTiles/WoodenTiles.yy",
   },
-  "tileWidth": 16,
-  "tileHeight": 16,
+  "tileWidth": 32,
+  "tileHeight": 32,
   "tilexoff": 0,
   "tileyoff": 0,
   "tilehsep": 0,

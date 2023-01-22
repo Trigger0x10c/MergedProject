@@ -458,7 +458,6 @@
       ],"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"objects","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1B83831D","properties":[],"isDnd":false,"objectId":{"name":"NecoArc","path":"objects/NecoArc/NecoArc.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":6784.0,"y":2048.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_66DE4674","properties":[],"isDnd":false,"objectId":{"name":"NecoArcChaos","path":"objects/NecoArcChaos/NecoArcChaos.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":6784.0,"y":1952.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3A57789D","properties":[],"isDnd":false,"objectId":{"name":"OverworldTree1","path":"objects/OverworldTree1/OverworldTree1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1568.0,"y":1728.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_66EE25DB","properties":[],"isDnd":false,"objectId":{"name":"OverworldTree1","path":"objects/OverworldTree1/OverworldTree1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1248.0,"y":2304.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_78308B42","properties":[],"isDnd":false,"objectId":{"name":"OverworldTree2","path":"objects/OverworldTree2/OverworldTree2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":-1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2496.0,"y":2304.0,},
@@ -557,6 +556,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_D713882","properties":[],"isDnd":false,"objectId":{"name":"OverworldTree1","path":"objects/OverworldTree1/OverworldTree1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":576.0,"y":1888.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_78CBAE17","properties":[],"isDnd":false,"objectId":{"name":"OverworldTree1","path":"objects/OverworldTree1/OverworldTree1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":800.0,"y":1536.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7176A0D0","properties":[],"isDnd":false,"objectId":{"name":"OverworldTree1","path":"objects/OverworldTree1/OverworldTree1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1056.0,"y":1376.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_77731AC6","properties":[],"isDnd":false,"objectId":{"name":"obj_change_room","path":"objects/obj_change_room/obj_change_room.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":9.0,"scaleY":3.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":6784.0,"y":1728.0,},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"sfx","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5AB537D1","properties":[],"isDnd":false,"objectId":{"name":"Muzak","path":"objects/Muzak/Muzak.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1984.0,"y":128.0,},
@@ -695,7 +695,6 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_1B83831D","path":"rooms/Overworld/Overworld.yy",},
-    {"name":"inst_66DE4674","path":"rooms/Overworld/Overworld.yy",},
     {"name":"inst_5AB537D1","path":"rooms/Overworld/Overworld.yy",},
     {"name":"inst_3A57789D","path":"rooms/Overworld/Overworld.yy",},
     {"name":"inst_66EE25DB","path":"rooms/Overworld/Overworld.yy",},
@@ -1226,6 +1225,7 @@
     {"name":"inst_7EEAC7ED","path":"rooms/Overworld/Overworld.yy",},
     {"name":"inst_53DF691","path":"rooms/Overworld/Overworld.yy",},
     {"name":"inst_6D597C5","path":"rooms/Overworld/Overworld.yy",},
+    {"name":"inst_77731AC6","path":"rooms/Overworld/Overworld.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

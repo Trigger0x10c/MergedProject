@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_overlay",
+  "name": "Desk",
   "spriteId": {
-    "name": "spr_overlay",
-    "path": "sprites/spr_overlay/spr_overlay.yy",
+    "name": "Reception_desk",
+    "path": "sprites/Reception_desk/Reception_desk.yy",
   },
   "solid": false,
   "visible": true,
@@ -30,7 +30,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Interior decorations",
+    "path": "folders/Objects/Interior decorations.yy",
   },
 }

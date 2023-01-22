@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "NecoArcChaos",
+  "name": "Door",
   "spriteId": {
-    "name": "spr_receptionist_overworld",
-    "path": "sprites/spr_receptionist_overworld/spr_receptionist_overworld.yy",
+    "name": "spr_doorwindow",
+    "path": "sprites/spr_doorwindow/spr_doorwindow.yy",
   },
   "solid": false,
   "visible": true,
@@ -25,13 +25,12 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Characters",
-    "path": "folders/Objects/Characters.yy",
+    "name": "Interior decorations",
+    "path": "folders/Objects/Interior decorations.yy",
   },
 }
