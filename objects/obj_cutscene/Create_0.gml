@@ -3,10 +3,5 @@ scene = 0;
 
 timer = 0;
 
-scene_info = [
-[],
-[],
-[],
-[],
-
-];
+x_dest = -1;
+y_dest = -1;

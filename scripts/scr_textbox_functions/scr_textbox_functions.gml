@@ -72,8 +72,20 @@ text[page_number] = _text;
 if argument_count > 1 {
 	switch(argument[1])
 	{
-	case "Chaos":
-	speaker_sprite[page_number] = ChaosPortrait;
+	case "smiling":
+	speaker_sprite[page_number] = spr_character_receptionist_smiling;
+	snd[page_number] = Blip_Select;
+	break;
+	case "surprised":
+	speaker_sprite[page_number] = spr_character_receptionist_surprised;
+	snd[page_number] = Blip_Select;
+	break;
+	case "laughing":
+	speaker_sprite[page_number] = spr_character_receptionist_laughing;
+	snd[page_number] = Blip_Select;
+	break;
+	case "frowning":
+	speaker_sprite[page_number] = spr_character_receptionist_frowning;
 	snd[page_number] = Blip_Select;
 	break;
 	}

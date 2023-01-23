@@ -1,3 +1,4 @@
+if(((!instance_exists(obj_cutscene)) && !instance_exists(objTextBox))){
 right_key = keyboard_check(vk_right) || keyboard_check(ord("D"));
 left_key = keyboard_check(vk_left) || keyboard_check(ord("A"));
 up_key = keyboard_check(vk_up) || keyboard_check(ord("W"));
@@ -30,5 +31,6 @@ yspeed = 0;
 //move
 x += xspeed;
 y += yspeed;
+}
 //depth
 USEDEPTH

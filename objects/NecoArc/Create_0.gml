@@ -12,3 +12,4 @@ idle[RIGHT] = spr_mc_idle_right;
 idle[LEFT] = spr_mc_idle_left;
 
 face = RIGHT;
+move_override = false;
