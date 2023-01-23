@@ -2,7 +2,7 @@ timer--;
 //288 356
 
 if(instance_exists(NecoArc)){
-	with(NecoArc){x = 100000000; y = 100000000}
+	with(NecoArc){x = 732; y = 2090}
 }
 
 

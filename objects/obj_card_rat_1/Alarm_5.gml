@@ -5,4 +5,4 @@
 // Inherit the parent event
 event_inherited();
 
-room_goto(Overworld);
+room_goto(Interior1);
