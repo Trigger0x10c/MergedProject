@@ -4,7 +4,7 @@
 ///@param y
 ///@param relative?
 ///@param spd
-function cutscene_move_character(){
+function cutscene_move_character_right(){
 	var obj = argument0, relative = argument3, spd = argument4;
 	
 	if(x_dest == -1){
@@ -21,7 +21,7 @@ var xx = x_dest;
 var yy = y_dest;
 
 with(obj){
-	sprite_index = sprite[LEFT];
+	sprite_index = sprite[RIGHT];
 
 	if(point_distance(x,y,xx,yy) >= spd) {
 		var dir = point_direction(x,y,xx,yy);
