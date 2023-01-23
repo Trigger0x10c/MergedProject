@@ -459,9 +459,7 @@
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_3F840662","spriteId":{"name":"spr_wasd","path":"sprites/spr_wasd/spr_wasd.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2304.0,"y":2048.0,},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
-    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_1","instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_41A92189","properties":[],"isDnd":false,"objectId":{"name":"obj_letterbox","path":"objects/obj_letterbox/obj_letterbox.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1280.0,"y":1760.0,},
-      ],"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
+    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_1","instances":[],"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"objects","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1B83831D","properties":[],"isDnd":false,"objectId":{"name":"NecoArc","path":"objects/NecoArc/NecoArc.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1248.0,"y":2176.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3A57789D","properties":[],"isDnd":false,"objectId":{"name":"OverworldTree1","path":"objects/OverworldTree1/OverworldTree1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1568.0,"y":1728.0,},
@@ -1234,7 +1232,6 @@
     {"name":"inst_6D597C5","path":"rooms/Overworld/Overworld.yy",},
     {"name":"inst_77731AC6","path":"rooms/Overworld/Overworld.yy",},
     {"name":"inst_2685563","path":"rooms/Overworld/Overworld.yy",},
-    {"name":"inst_41A92189","path":"rooms/Overworld/Overworld.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
